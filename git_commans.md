@@ -18,4 +18,4 @@ git commit: realiza cambios con el contenido preparado como una instantanea de c
 
 git push: sirve para transmitir los commits de la rama local al repositorio remoto
 
-git merge: sirve para fusionar uno o mas ramas dentro de la rama que tienes activa
+git merge: Este sirve para fusionar uno o mas ramas dentro de la rama que tienes activa
